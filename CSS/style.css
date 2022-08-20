@@ -33,7 +33,7 @@ html{
 }
 .navbar ul li a:hover{
     background-color: white;
-    color: rgba(77, 6, 49, 0.863);
+    color: #DA70D6;
     box-shadow: 0 0 2px white;
 }
 
