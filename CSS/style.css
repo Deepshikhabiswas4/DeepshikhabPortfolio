@@ -33,7 +33,7 @@ html{
 }
 .navbar ul li a:hover{
     background-color: white;
-    color: #D8BFD8;
+    color: #9932CC;
     box-shadow: 0 0 2px white;
 }
 
@@ -41,7 +41,7 @@ html{
 #home{
     display: flex;
     flex-direction: column;
-    background-color: #4B0082;
+    background-color: #BA55D3;
     height: 840px;
     justify-content: center;
     align-items: left;
