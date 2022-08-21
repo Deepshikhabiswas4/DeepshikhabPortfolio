@@ -41,7 +41,7 @@ html{
 #home{
     display: flex;
     flex-direction: column;
-    background-color: #9370DB;
+    background-color: #8A2BE2;
     height: 840px;
     justify-content: center;
     align-items: left;
