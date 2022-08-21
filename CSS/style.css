@@ -11,7 +11,7 @@ html{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #2F4F4F;
+    background-color: #8A2BE2;
     position: sticky;
     top: 0;
 }
@@ -41,7 +41,7 @@ html{
 #home{
     display: flex;
     flex-direction: column;
-    background-color: #5F9EA0;
+    background-color: #FFE4E1;
     height: 840px;
     justify-content: center;
     align-items: left;
